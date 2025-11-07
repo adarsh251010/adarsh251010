@@ -44,7 +44,7 @@
 
 ---
 
-## ⚙️ Supporting Skills — Backend Development
+## ⚙️ Backend Development
 
 | Area | Skills |
 |-------|--------|
