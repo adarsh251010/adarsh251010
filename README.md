@@ -13,6 +13,7 @@
 
 ## 🧭 About Me
 
+📊 Also passionate about **Data Science, Machine Learning, and Analytics** — turning raw data into meaningful insights.
 🚀 Passionate backend engineer with a focus on **Spring Boot, RESTful APIs, and secure architecture**.  
 💡 I enjoy solving real-world business problems using clean and scalable code.  
 🎯 Constantly learning **Microservices**, **AWS**, and **DevOps** to deliver production-ready systems.  
@@ -20,18 +21,27 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Data Science Skills
 
-<div align="center">
+### 🧮 **Languages & Libraries**
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-learn` • `Statsmodels` • `TensorFlow` *(learning)*
 
-| Domain | Technologies |
-|--------|---------------|
-| 💻 **Languages** | Java, Python, JavaScript (ES6+), SQL |
-| ⚙️ **Backend Frameworks** | Spring Boot, Spring Security, JPA/Hibernate, REST APIs |
-| 🗄️ **Databases** | MySQL, PostgreSQL, H2 |
-| ☁️ **Cloud / DevOps** | AWS (Lambda, S3, SES), Docker, GitHub Actions |
-| 🧪 **Testing** | JUnit, Mockito |
-| 🧰 **Tools** | IntelliJ IDEA, VS Code, Postman, Git, Maven |
+### 🧩 **Data Analysis & Visualization**
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Hypothesis Testing
+- Data Wrangling & Cleaning
+- Feature Engineering
+- Correlation and Outlier Analysis
+- Data Visualization Dashboards (Power BI, Matplotlib, Seaborn)
+
+### 🧠 **Machine Learning**
+- Supervised Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM  
+- Unsupervised Learning: K-Means, Hierarchical Clustering, PCA  
+- Model Evaluation: Confusion Matrix, ROC-AUC, Cross-validation  
+- Predictive Modeling for classification and regression problems  
+
+### 🧰 **Tools & Environments**
+`Jupyter Notebook` • `Google Colab` • `Power BI` • `Excel` • `VS Code` • `GitHub`  
 
 </div>
 
