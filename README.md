@@ -1,7 +1,7 @@
-<!-- 💼 GitHub Profile README for Adarsh Rai -->
+<!-- 🌟 GitHub Profile README for Adarsh Rai -->
 
-<h1 align="center">👋 Hi there, I'm <a href="https://github.com/adarsh251010">Adarsh Rai</a>!</h1>
-<h3 align="center">💻 Graduate Trainee Software Engineer at Inadev | Backend Developer | Java | Spring Boot</h3>
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/adarsh251010">Adarsh Rai</a></h1>
+<h3 align="center">📊 Data Science & Machine Learning Enthusiast | Backend Developer | Turning Data into Decisions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarsh251010&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
@@ -13,18 +13,17 @@
 
 ## 🧭 About Me
 
-📊 Also passionate about **Data Science, Machine Learning, and Analytics** — turning raw data into meaningful insights.
-🚀 Passionate backend engineer with a focus on **Spring Boot, RESTful APIs, and secure architecture**.  
-💡 I enjoy solving real-world business problems using clean and scalable code.  
-🎯 Constantly learning **Microservices**, **AWS**, and **DevOps** to deliver production-ready systems.  
-💬 I believe in *"code readability over cleverness"* — clarity is power.  
+🎯 **Data Science & ML professional in the making**, passionate about solving real-world problems through data.  
+🧠 Skilled in **data cleaning, feature engineering, model building, and visualization** using Python.  
+💻 Also experienced in **building APIs and backend systems** using Java Spring Boot — bringing data insights into real applications.  
+📊 I believe in *data-driven thinking, clean code, and continuous learning.*
 
 ---
 
 ## 🧠 Core Data Science Skills
 
 ### 🧮 **Languages & Libraries**
-`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-learn` • `Statsmodels` • `TensorFlow`
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-learn` • `Statsmodels` • `TensorFlow` *(learning)*
 
 ### 🧩 **Data Analysis & Visualization**
 - Exploratory Data Analysis (EDA)
@@ -43,7 +42,9 @@
 ### 🧰 **Tools & Environments**
 `Jupyter Notebook` • `Google Colab` • `Power BI` • `Excel` • `VS Code` • `GitHub`  
 
-## ⚙️ Backend Development
+---
+
+## ⚙️ Supporting Skills — Backend Development
 
 | Area | Skills |
 |-------|--------|
@@ -52,8 +53,6 @@
 | **Databases** | MySQL, PostgreSQL, H2 |
 | **Cloud / DevOps** | AWS (Lambda, S3, SES), Docker, GitHub Actions |
 | **Testing** | JUnit, Mockito |
-
-</div>
 
 ---
 
@@ -70,20 +69,21 @@
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🎓 Education & Certifications
 
-- 🏅 **AWS Lambda & Python Automation:** Automated HR anniversary emails and offer letter workflow using SES & S3.  
-- 🧩 **Spring Boot Development:** Built secure, modular, and testable REST APIs for enterprise applications.  
-- 💼 **Real-world Projects:** Delivered backend integrations in Skill Portal 2025 (Inadev internal project).  
-- 📊 **Data Analysis Projects:** Extracted insights using Python, Pandas, and visualization tools.  
+🎓 **MCA — Chandigarh University (2024)**  
+📘 **Data Science Program — Masai School (2025)**  
+📜 **Certifications:**
+- IBM: Supervised Machine Learning (Classification & Regression)  
+- University of Washington: Machine Learning (Regression & Classification)
 
 ---
 
-## 🧠 Currently Learning
-- ☁️ AWS & Cloud Deployments  
-- 🔐 Advanced Spring Security & JWT  
-- 🧱 Microservices Architecture  
-- ⚙️ CI/CD with Docker & GitHub Actions  
+## 🧩 Currently Exploring
+- Deep Learning (Neural Networks, CNNs)
+- Time Series Analysis
+- MLOps & Model Deployment
+- Cloud-based Data Pipelines (AWS / GCP)
 
 ---
 
@@ -103,4 +103,4 @@
 
 ---
 
-<h4 align="center">⭐ “Code. Learn. Build. Repeat.” ⭐</h4>
+<h4 align="center">⭐ “Transforming data into intelligence, and intelligence into action.” ⭐</h4>
