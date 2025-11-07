@@ -24,7 +24,7 @@
 ## 🧠 Core Data Science Skills
 
 ### 🧮 **Languages & Libraries**
-`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-learn` • `Statsmodels` • `TensorFlow` *(learning)*
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `SciPy` • `Scikit-learn` • `Statsmodels` • `TensorFlow`
 
 ### 🧩 **Data Analysis & Visualization**
 - Exploratory Data Analysis (EDA)
@@ -42,6 +42,16 @@
 
 ### 🧰 **Tools & Environments**
 `Jupyter Notebook` • `Google Colab` • `Power BI` • `Excel` • `VS Code` • `GitHub`  
+
+## ⚙️ Backend Development
+
+| Area | Skills |
+|-------|--------|
+| **Languages** | Java, SQL, JavaScript |
+| **Frameworks** | Spring Boot, Spring Security, REST APIs |
+| **Databases** | MySQL, PostgreSQL, H2 |
+| **Cloud / DevOps** | AWS (Lambda, S3, SES), Docker, GitHub Actions |
+| **Testing** | JUnit, Mockito |
 
 </div>
 
