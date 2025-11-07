@@ -37,19 +37,6 @@
 
 ---
 
-
-### 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [HR Portal](https://github.com/adarsh251010/HR-PORTAL) | Employee Management System with CRUD APIs and Swagger UI | Spring Boot, H2 |
-| [E-commerce API](https://github.com/adarsh251010/ecommerce-api) | REST API for product management with JWT Auth | Spring Boot, PostgreSQL |
-| [ProjectHub](https://github.com/adarsh251010/projecthub) | Full-stack portfolio + blogging platform | Spring Boot, React |
-| [Student Performance Analysis](https://github.com/J-TECH-bot/Student_performance_Analysis) | Python-based student analytics | Python, Pandas |
-| [Book Inventory Analysis](https://github.com/Ujjwal611/Book_Inventory_Analysis) | Collaborative data analysis project for book inventory management | Python, Pandas, NumPy |
-| [Employee Attrition & Productivity Insights](https://github.com/NehaGupta5445/Employee_Attrition_and_Productivity_Insights) | Analytics dashboard for employee retention and productivity | Python, Power BI |
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
